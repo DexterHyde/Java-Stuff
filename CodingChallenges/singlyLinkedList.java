@@ -1,4 +1,4 @@
-package Tests;
+package CodingChallenges;
 
 import java.util.ArrayList;
 import java.util.List;
