@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - singlyLinkedList",
+            "request": "launch",
+            "mainClass": "Tests.singlyLinkedList",
+            "projectName": "Java Stuff_f5025421"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListsLearning",
+            "request": "launch",
+            "mainClass": "Tests.LinkedListsLearning",
+            "projectName": "Java Stuff_f5025421"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - reverseNumber",
             "request": "launch",
             "mainClass": "CodingChallenges.reverseNumber",
