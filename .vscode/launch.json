@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - containerWithMostWater",
+            "request": "launch",
+            "mainClass": "CodingChallenges.containerWithMostWater",
+            "projectName": "Java Stuff_f5025421"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - singlyLinkedList",
             "request": "launch",
             "mainClass": "Tests.singlyLinkedList",
